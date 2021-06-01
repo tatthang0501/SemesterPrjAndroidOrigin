@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Spending"
+        android:id="@+id/spendingNavi"
+        android:icon="@drawable/spendimage"
+        />
+    <item
+        android:title="Incoming"
+        android:id="@+id/incomingNavi"
+        android:icon="@drawable/cashinhan"
+        />
+    <item
+        android:title="PTIT News"
+        android:id="@+id/newsNavi"
+        android:icon="@drawable/ic_baseline_web_24"/>
+    <item
+        android:title="More"
+        android:id="@+id/moreNavi"
+        android:icon="@drawable/ic_baseline_more_horiz_24"/>
+</menu>
